@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Canada",
+    "population": 34568211,
+    "averageAge": 41.5,
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Germany",
+    "population": 81147265,
+    "averageAge": 45.7,
+    "languages": [
+      "German"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "population": 49601098,
+    "averageAge": 25.5,
+    "languages": [
+      "Afrikaans",
+      "English",
+      "IsiNdebele",
+      "IsiXhosa",
+      "IsiZulu",
+      "Sepedi",
+      "Sesotho",
+      "Setswana",
+      "SiSwati",
+      "Tshivenda",
+      "Xitsonga"
+    ]
+  },
+  {
+    "name": "Japan",
+    "population": 127253075,
+    "averageAge": 45.8,
+    "languages": []
+  }
+]
